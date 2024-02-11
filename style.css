@@ -85,6 +85,10 @@ header h1 {
   line-height: 24px;
   letter-spacing: 0;
   color: #e2e8f0;
+
+  display: flex;
+  gap: 8px;
+  align-items: center;
 }
 
 input {
